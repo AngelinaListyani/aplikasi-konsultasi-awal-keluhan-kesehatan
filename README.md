@@ -28,7 +28,7 @@ Hasil konsultasi ditampilkan dalam bentuk penjelasan singkat yang dapat membantu
 
 ### User Features
 
-- **Konsultasi Gejala**
+- **Konsultasi Gejala**  
   Pengguna dapat memilih gejala yang dirasakan melalui aplikasi konsultasi awal kesehatan.
 
 - **Hasil Diagnosis**  
