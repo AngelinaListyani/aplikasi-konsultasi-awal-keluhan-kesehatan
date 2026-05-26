@@ -1,17 +1,27 @@
 # Aplikasi Konsultasi Awal Keluhan Kesehatan
 
-## Gambaran Umum 
+## Project Overview
 
-Aplikasi Konsultasi Awal Keluhan Kesahatan merupakan sistem informasi berbasis android yang membantu pengguna melakukan konsultasi awal berdasarkan gejala yang dipilih. 
+Aplikasi Konsultasi Awal Keluhan Kesehatan merupakan sistem informasi berbasis Android yang membantu pengguna melakukan konsultasi awal berdasarkan gejala yang dipilih.
 
-Sistem dikembangkan untuk membantu pengguna memperoleh informasi awal terkait kemungkinan kondisi kesehatan sebelum melakukan konsultasi lebih lanjut dengan tenaga medis. 
+Sistem dirancang untuk memberikan informasi awal mengenai kemungkinan kondisi kesehatan pengguna sebelum melakukan konsultasi lebih lanjut dengan tenaga medis.
 
-Aplikasi menggunakan metode Dempster-Shafer untuk melakukan proses perhitungan diagnosis berdasarkan data gejala dan rule yang telah ditentukan.
+Aplikasi menggunakan metode Dempster-Shafer untuk menganalisis data gejala dan menghasilkan kemungkinan diagnosis berdasarkan rule dan basis pengetahuan yang telah ditentukan.
 
-## Latar Belakang Masalah
+## Business Problem 
 
-Pengguna sering mengalami kesulitan dalam memahami kondisi kesehatan berdasarkan gejala yang dirasakan, terutama dalam menentukan langkah konsultasi awal yang perlu dilakukan.
+Pengguna sering mengalami kesulitan memahami kemungkinan kondisi kesehatan berdasarkan gejala yang dirasakan, terutama dalam menentukan langkah konsultasi awal yang perlu dilakukan.
 
-Selain itu, proses konsultasi kesehatan juga membutuhkan waktu dan tidak selalu mudah diakses oleh semua pengguna.
+Selain itu, layanan konsultasi kesehatan tidak selalu mudah diakses oleh beberapa pengguna.
 
-Berdasarkan kondisi tersebut, dikembangkan sebuah sistem informasi yang dapat membantu pengguna memperoleh informasi awal terkait kemungkinan kondisi kesehatan berdasarkan gejala yang dipilih dengan proses yang lebih sederhana dan efisien.
+Berdasarkan kondisi tersebut, dikembangkan sebuah sistem informasi yang dapat membantu pengguna memperoleh informasi awal terkait kemungkinan kondisi kesehatan berdasarkan gejala yang dipilih.
+
+## Proposed Solution 
+
+Sistem dirancang untuk membantu pengguna melakukan konsultasi kesehatan berdasarkan gejala yang dipilih melalui aplikasi berbasis Android.
+
+Pengguna dapat memilih gejala yang dirasakan, kemudian sistem akan memproses data tersebut menggunakan metode Dempster-Shafer untuk menghasilkan informasi awal terkait kemungkinan kondisi kesehatan pengguna.
+
+Hasil konsultasi ditampilkan dalam bentuk penjelasan singkat yang dapat membantu pengguna memahami langkah konsultasi selanjutnya.
+
+
