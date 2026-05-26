@@ -24,4 +24,23 @@ Pengguna dapat memilih gejala yang dirasakan, kemudian sistem akan memproses dat
 
 Hasil konsultasi ditampilkan dalam bentuk penjelasan singkat yang dapat membantu pengguna memahami langkah konsultasi selanjutnya.
 
+## Main Features
 
+### User Features
+
+- **Konsultasi Gejala**
+  Pengguna dapat memilih gejala yang dirasakan melalui aplikasi konsultasi awal kesehatan.
+
+- **Hasil Diagnosis**  
+  Pengguna menerima informasi kondisi kesehatan awal dari hasil konsultasi sesuai gejala yang dipilih.
+
+- **Informasi Penyakit**  
+  Pengguna dapat melihat informasi umum penyakit berdasarkan daftar penyakit yang dipilih.
+
+### Admin Features
+
+- **Manajemen Data Penyakit**  
+  Admin dapat melakukan pengelolaan data penyakit.
+
+- **Manajemen Data Gejala**  
+  Admin dapat melakukan pengelolaan data gejala berdasarkan data penyakit.
