@@ -44,3 +44,10 @@ Hasil konsultasi ditampilkan dalam bentuk penjelasan singkat yang dapat membantu
 
 - **Manajemen Data Gejala**  
   Admin dapat melakukan pengelolaan data gejala berdasarkan data penyakit.
+
+## System Workflow
+
+1. Pengguna memilih gejala yang dirasakan untuk melakukan konsultasi awal.
+2. Sistem memproses data gejala yang dipilih.
+3. Sistem melakukan perhitungan menggunakan metode Dempster-Shafer.
+4. Sistem menampilkan informasi kemungkinan kondisi kesehatan pengguna.
