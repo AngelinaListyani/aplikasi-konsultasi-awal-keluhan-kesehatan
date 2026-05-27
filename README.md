@@ -61,3 +61,14 @@ Hasil konsultasi ditampilkan dalam bentuk penjelasan singkat yang dapat membantu
 
 **Method**
 - Dempster-Shafer
+
+## Data Structure 
+
+- **Data Penyakit**  
+  Menyimpan daftar penyakit yang digunakan untuk konsultasi.
+
+- **Data Gejala**  
+  Menyimpan data gejala yang dapat dipilih pengguna saat melakukan konsultasi.
+
+- **Data Relasi Diagnosis**  
+  Menyimpan relasi data gejala dan penyakit sebagai dasar proses analisis menggunakan metode Dempster-Shafer.
