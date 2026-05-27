@@ -54,7 +54,7 @@ Hasil konsultasi ditampilkan dalam bentuk penjelasan singkat yang dapat membantu
 
 ## Technology Used 
 
-**Development** 
+**Development**
 - Android Studio
 - Java
 - Firebase Realtime Database
