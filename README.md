@@ -51,3 +51,13 @@ Hasil konsultasi ditampilkan dalam bentuk penjelasan singkat yang dapat membantu
 2. Sistem memproses data gejala yang dipilih.
 3. Sistem melakukan perhitungan menggunakan metode Dempster-Shafer.
 4. Sistem menampilkan informasi kemungkinan kondisi kesehatan pengguna.
+
+## Technology Used 
+
+**Development** 
+- Android Studio
+- Java
+- Firebase Realtime Database
+
+**Method**
+- Dempster-Shafer
