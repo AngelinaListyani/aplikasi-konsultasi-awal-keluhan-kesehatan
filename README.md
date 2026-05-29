@@ -75,3 +75,6 @@ Hasil konsultasi ditampilkan dalam bentuk penjelasan singkat yang dapat membantu
 
 ## Application Preview
 
+| Halaman Utama | Diagnosa Gejala | Hasil Diagnosis |
+|---------------|-----------------|-----------------|
+| ![](assets/home-page.png) | ![](assets/diagnosis-page.png) | ![](assets/result-page.png) |
