@@ -38,3 +38,10 @@ Responsibilities :
 - Memberikan penanganan medis seperti seorang dokter.
 - Menghubungkan pengguna dengan tenaga kesehatan secara langsung.
   
+## High Level System Flow
+
+1. Pengguna memilih gejala yang tersedia pada aplikasi.
+2. Sistem menerima gejala yang dipilih pengguna.
+3. Sistem memproses gejala berdasarkan basis pengetahuan yang tersedia.
+4. Sistem menganalisis gejala untuk menghasilkan informasi awal mengenai kondisi kesehatan.
+5. Sistem menampilkan informasi awal mengenai kemungkinan kondisi kesehatan kepada pengguna.
