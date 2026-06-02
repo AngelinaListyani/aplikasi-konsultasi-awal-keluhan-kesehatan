@@ -9,7 +9,7 @@ Sistem membantu melakukan konsultasi awal kondisi kesehatan berdasarkan gejala y
 
 Pengguna Umum yang mengakses aplikasi untuk melakukan konsultasi awal berdasarkan gejala yang dipilih dan memperoleh informasi awal terkait kondisi kesehatan. 
 
-Aktivitas Utama :
+Responsibilities :
 - Melakukan konsultasi berdasarkan gejala yang dipilih.
 - Melihat hasil konsultasi terkait kemungkinan kondisi kesehatan.
 - Mengakses informasi umum terkait penyakit yang tersedia dalam aplikasi.
@@ -18,7 +18,23 @@ Aktivitas Utama :
 
 Dokter atau pakar yang bertanggung jawab mengelola data yang digunakan dalam proses konsultasi awal kesehatan.
 
-Aktivitas Utama :
+Responsibilities :
 - Mengelola data gejala.
 - Mengelola data penyakit dan informasi penyakit.
 - Memelihara data yang digunakan dalam proses konsultasi.
+
+## System Scope
+
+### In Scope
+- Menerima gejala yang dipilih pengguna.
+- Memproses gejala berdasarkan basis pengetahuan pakar.
+- Menyediakan informasi awal mengenai kemungkinan kondisi kesehatan.
+- Menyediakan informaasi umum penyakit.
+- Mengelola data gejala, data penyakit, dan data relasi diagnosis.
+
+### Out Scope
+- Menentukan diagnosis medis sebagai pengganti tenaga kesehatan.
+- Melakukan konsultasi dengan pengguna secara real-time.
+- Memberikan penanganan medis seperti seorang dokter.
+- Menghubungkan pengguna dengan tenaga kesehatan secara langsung.
+  
