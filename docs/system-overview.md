@@ -45,3 +45,14 @@ Responsibilities :
 3. Sistem memproses gejala berdasarkan basis pengetahuan yang tersedia.
 4. Sistem menganalisis gejala untuk menghasilkan informasi awal mengenai kondisi kesehatan.
 5. Sistem menampilkan informasi awal mengenai kemungkinan kondisi kesehatan kepada pengguna.
+
+## Main Data Used  
+
+### Data Gejala  
+Digunakan sebagai sumber input dalam proses konsultasi awal. Data ini berisi daftar gejala yang dapat dipilih oleh pengguna.
+
+### Data Penyakit  
+Digunakan untuk menyediakan informasi penyakit yang dapat membantu pengguna memahami kondisi kesehatan dan penanganan awal yang sesuai. 
+
+### Data Relasi Diagnosis  
+Berisikan relasi antara data gejala dan data penyakit yang digunakan dalam proses analisis untuk menghasilkan informasi awal mengenai kemungkinan kondisi kesehatan.
