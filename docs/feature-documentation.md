@@ -5,8 +5,6 @@ Dokumen ini menjelaskan kemampuan sistem yang tersedia bagi admin dan pengguna m
 
 ## Feature Summary   
 
-## Feature Summary
-
 |Role | Feature | Description |
 |--------|--------|--------|
 | User | Konsultasi Gejala | Memilih gejala yang dirasakan untuk memulai konsultasi. |
