@@ -26,3 +26,15 @@ Memulai proses konsultasi awal berdasarkan gejala yang dipilih pengguna.
   
 **Expected Outcome**  
 Gejala yang dipilih siap digunakan sebagai dasar proses konsultasi.
+
+### Hasil Konsultasi  
+**Purpose**  
+Menampilkan hasil konsultasi berdasarkan gejala yang telah dipilih pengguna.
+
+**Main Functions**  
+- Menampilkan hasil konsultasi berupa nama penyakit.
+- Menampilkan gejala yang dipilih selama proses konsultasi.
+
+**Expected Outcome**  
+Pengguna mengetahui kemungkinan kondisi kesehatan berdasarkan gejala yang dipilih. 
+
