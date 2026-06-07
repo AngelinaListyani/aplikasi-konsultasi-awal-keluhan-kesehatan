@@ -16,11 +16,13 @@ Dokumen ini menjelaskan kemampuan sistem yang tersedia bagi admin dan pengguna m
 
 ## User Features
 ### Konsultasi Gejala
-#### Purpose  
-Memulai proses konsultasi awal berdasarkan gejala yang dipilih pengguna.  
-#### Main Functions 
+**Purpose**  
+Memulai proses konsultasi awal berdasarkan gejala yang dipilih pengguna. 
+
+**Main Functions**  
 - Menampilkan daftar gejala yang tersedia untuk memulai konsultasi.
 - Memungkinkan pengguna memilih gejala yang sesuai.
 - Melanjutkan proses konsultasi berdasarkan gejala yang dipilih.
-#### Expected Outcome  
+  
+**Expected Outcome**  
 Gejala yang dipilih siap digunakan sebagai dasar proses konsultasi.
