@@ -38,3 +38,50 @@ Menampilkan hasil konsultasi berdasarkan gejala yang telah dipilih pengguna.
 **Expected Outcome**  
 Pengguna mengetahui kemungkinan kondisi kesehatan berdasarkan gejala yang dipilih. 
 
+### Informasi Penyakit   
+**Purpose**  
+Menyediakan informasi umum mengenai penyakit yang tersedia dalam sistem.
+
+**Main Functions**   
+- Menampilkan daftar penyakit yang tersedia.
+- Memungkinkan pengguna memilih penyakit yang ingin dilihat.
+- Menampilkan informasi umum mengenai penyakit yang dipilih.
+
+**Expected Outcome**   
+Pengguna memperoleh informasi umum mengenai penyakit yang dipilih, termasuk deskripsi, gejala, dan penanganan awal.  
+
+### Diagnosa Ulang  
+**Purpose**  
+Memudahkan pengguna untuk memulai kembali proses konsultasi.
+
+**Main Functions**  
+- Mengembalikan proses konsultasi ke kondisi awal.
+- Mengarahkan pengguna kembali ke halaman konsultasi.
+
+## Admin Features  
+### Kelola Data Penyakit  
+**Purpose**  
+Memungkinkan admin mengelola data penyakit yang digunakan dalam sistem.
+
+**Main Functions**  
+- Menampilkan data penyakit yang tersedia dalam sistem.
+- Menambahkan data penyakit baru.
+- Memperbarui informasi penyakit yang telah tersedia.
+- Menghapus data penyakit yang tidak lagi digunakan.
+
+**Expected Outcome**  
+Data penyakit yang digunakan sistem tetap tersedia dan terbarui.  
+
+### Kelola Data Gejala  
+**Purpose**  
+Memungkinkan admin mengelola data gejala yang digunakan dalam sistem. 
+
+**Main Functions**  
+- Menampilkan data gejala yang tersedia dalam sistem.
+- Menambahkan data gejala baru.
+- Memperbarui data gejala yang telah tersedia.
+- Menghapus data gejala yang tidak lagi digunakan.
+
+**Expected Outcome**  
+Data gejala yang digunakan sistem tetap tersedia dan terbarui.
+
