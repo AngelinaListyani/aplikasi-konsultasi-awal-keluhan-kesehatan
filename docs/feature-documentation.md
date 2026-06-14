@@ -16,6 +16,7 @@ Dokumen ini menjelaskan kemampuan sistem yang tersedia bagi admin dan pengguna m
 
 ## User Features
 ### Konsultasi Gejala
+
 **Purpose**  
 Memulai proses konsultasi awal berdasarkan gejala yang dipilih pengguna. 
 
@@ -39,6 +40,7 @@ Menampilkan hasil konsultasi berdasarkan gejala yang telah dipilih pengguna.
 Pengguna mengetahui kemungkinan kondisi kesehatan berdasarkan gejala yang dipilih. 
 
 ### Informasi Penyakit   
+
 **Purpose**  
 Menyediakan informasi umum mengenai penyakit yang tersedia dalam sistem.
 
@@ -51,6 +53,7 @@ Menyediakan informasi umum mengenai penyakit yang tersedia dalam sistem.
 Pengguna memperoleh informasi umum mengenai penyakit yang dipilih, termasuk deskripsi, gejala, dan penanganan awal.  
 
 ### Diagnosa Ulang  
+
 **Purpose**  
 Memudahkan pengguna untuk memulai kembali proses konsultasi.
 
@@ -60,6 +63,7 @@ Memudahkan pengguna untuk memulai kembali proses konsultasi.
 
 ## Admin Features  
 ### Kelola Data Penyakit  
+
 **Purpose**  
 Memungkinkan admin mengelola data penyakit yang digunakan dalam sistem.
 
@@ -73,6 +77,7 @@ Memungkinkan admin mengelola data penyakit yang digunakan dalam sistem.
 Data penyakit yang digunakan sistem tetap tersedia dan terbarui.  
 
 ### Kelola Data Gejala  
+
 **Purpose**  
 Memungkinkan admin mengelola data gejala yang digunakan dalam sistem. 
 
