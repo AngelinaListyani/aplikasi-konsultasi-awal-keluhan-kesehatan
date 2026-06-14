@@ -4,19 +4,16 @@
 Sistem membantu melakukan konsultasi awal kondisi kesehatan berdasarkan gejala yang dipilih oleh  pengguna. Gejala yang dipilih akan diproses untuk menghasilkan informasi awal mengenai kemungkinan kondisi kesehatan pengguna sebelum memutuskan konsultasi lebih lanjut dengan layanan kesehatan.
 
 ## User Roles 
+**User**  
+Pengguna Umum yang mengakses aplikasi untuk melakukan konsultasi awal berdasarkan gejala yang dipilih dan memperoleh informasi awal terkait kondisi kesehatan.  
 
-### User 
-
-Pengguna Umum yang mengakses aplikasi untuk melakukan konsultasi awal berdasarkan gejala yang dipilih dan memperoleh informasi awal terkait kondisi kesehatan. 
-
-Responsibilities :
+Responsibilities :  
 - Melakukan konsultasi berdasarkan gejala yang dipilih.
 - Melihat hasil konsultasi terkait kemungkinan kondisi kesehatan.
 - Mengakses informasi umum terkait penyakit yang tersedia dalam aplikasi.
 
-### Admin 
-
-Dokter atau pakar yang bertanggung jawab mengelola data yang digunakan dalam proses konsultasi awal kesehatan.
+**Admin**  
+Dokter atau pakar yang bertanggung jawab mengelola data yang digunakan dalam proses konsultasi awal kesehatan. 
 
 Responsibilities :
 - Mengelola data gejala.
@@ -24,7 +21,6 @@ Responsibilities :
 - Memelihara data yang digunakan dalam proses konsultasi.
 
 ## System Scope
-
 ### In Scope
 - Menerima gejala yang dipilih pengguna.
 - Memproses gejala berdasarkan basis pengetahuan pakar.
@@ -39,7 +35,6 @@ Responsibilities :
 - Menghubungkan pengguna dengan tenaga kesehatan secara langsung.
   
 ## High Level System Flow
-
 1. Pengguna memilih gejala yang tersedia pada aplikasi.
 2. Sistem menerima gejala yang dipilih pengguna.
 3. Sistem memproses gejala berdasarkan basis pengetahuan yang tersedia.
@@ -47,7 +42,6 @@ Responsibilities :
 5. Sistem menampilkan informasi awal mengenai kemungkinan kondisi kesehatan kepada pengguna.
 
 ## Main Data Used  
-
 ### Data Gejala  
 Digunakan sebagai sumber input dalam proses konsultasi awal. Data ini berisi daftar gejala yang dapat dipilih oleh pengguna.
 
