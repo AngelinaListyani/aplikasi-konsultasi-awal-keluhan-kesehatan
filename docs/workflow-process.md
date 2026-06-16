@@ -8,9 +8,12 @@ Proses operasional dalam sistem saling berkaitan untuk mendukung penyediaan info
 
 ### Proses Penyediaan Informasi Penyakit  
 **Purpose**   
-Tujuan proses ini adalah menyediakan akses terhadap informasi penyakit yang tersedia dalam sistem sehingga pengguna dapat memperoleh pemahaman awal mengenai kondisi kesehatan tertentu.  
+Menyediakan akses terhadap informasi penyakit yang tersedia dalam sistem sehingga pengguna dapat memperoleh pemahaman awal mengenai kondisi kesehatan tertentu. 
 
 **Actors**  
+Pengguna.  
+
+**Preconditions**  
 Pengguna telah mengakses menu Daftar Penyakit pada aplikasi.  
 
 **Workflow Steps**  
@@ -21,3 +24,31 @@ Pengguna telah mengakses menu Daftar Penyakit pada aplikasi.
 
 **Expected Outcome**  
 Pengguna memperoleh informasi detail mengenai penyakit yang dipilih, termasuk deskripsi penyakit, gejala yang terkait, dan informasi penanganan awal yang tersedia dalam sistem. 
+
+### Proses Konsultasi Pengguna  
+**Purpose**  
+Membantu pengguna memperoleh informasi awal mengenai kemungkinan kondisi kesehatan berdasarkan gejala yang dipilih. 
+
+**Actors**  
+Pengguna. 
+
+**Preconditions**    
+Data gejala dan data penyakit telah tersedia dalam sistem. 
+
+**Workflow Steps**  
+1. Pengguna mengakses menu konsultasi.
+2. Sistem menampilkan daftar gejala yang tersedia.
+3. Pengguna memilih gejala sesuai dengan kondisi yang dirasakan.
+4. Pengguna mengirimkan pilihan gejala untuk melanjutkan proses konsultasi.
+5. Sistem memproses gejala yang dipilih.
+6. Sistem menampilkan hasil konsultasi pengguna.
+
+**Alternative Flow (Diagnosa Ulang)**  
+1. Pengguna memilih untuk melakukan diagnosa ulang.
+2. Sistem menghapus gejala yang dipilih sebelumnya.
+3. Pengguna kembali ke tahap pemilihan gejala.
+4. Proses konsultasi berlangsung kembali dari tahap pemilihan gejala.
+
+**Expected Outcome**  
+Pengguna memperoleh hasil konsultasi berdasarkan gejala yang dipilih. 
+
