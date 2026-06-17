@@ -16,7 +16,7 @@ Pengguna.
 **Preconditions**  
 Pengguna telah mengakses menu Daftar Penyakit pada aplikasi.  
 
-**Workflow Steps**  
+**Workflow Steps :**  
 1. Pengguna mengakses menu Daftar Penyakit.
 2. Sistem menampilkan daftar penyakit yang tersedia.
 3. Pengguna memilih salah satu penyakit.
@@ -35,7 +35,7 @@ Pengguna.
 **Preconditions**    
 Data gejala dan data penyakit telah tersedia dalam sistem. 
 
-**Workflow Steps**  
+**Workflow Steps :**  
 1. Pengguna mengakses menu konsultasi.
 2. Sistem menampilkan daftar gejala yang tersedia.
 3. Pengguna memilih gejala sesuai dengan kondisi yang dirasakan.
@@ -43,7 +43,7 @@ Data gejala dan data penyakit telah tersedia dalam sistem.
 5. Sistem memproses gejala yang dipilih.
 6. Sistem menampilkan hasil konsultasi pengguna.
 
-**Alternative Flow (Diagnosa Ulang)**  
+**Alternative Flow (Diagnosa Ulang) :**  
 1. Pengguna memilih untuk melakukan diagnosa ulang.
 2. Sistem menghapus gejala yang dipilih sebelumnya.
 3. Pengguna kembali ke tahap pemilihan gejala.
@@ -52,3 +52,25 @@ Data gejala dan data penyakit telah tersedia dalam sistem.
 **Expected Outcome**  
 Pengguna memperoleh hasil konsultasi berdasarkan gejala yang dipilih. 
 
+### Proses Pemeliharaan Data Penyakit  
+**Purpose**  
+Memastikan informasi penyakit yang digunakan dalam sistem tetap tersedia dan akurat untuk mendukung penyampaian informasi terhadap pengguna.
+
+**Actors**  
+Administrator.  
+
+**Preconditions**  
+Administrator telah berhasil login ke sistem.
+
+**Workflow Steps :**  
+1. Administrator mengakses menu Data Penyakit.
+2. Sistem menampilkan data penyakit yang tersedia.
+3. Administrator melakukan pemeliharaan data penyakit sesuai kebutuhan.
+4. Sistem menyimpan perubahan data penyakit.
+5. Sistem menampilkan data penyakit yang telah diperbaruhi.
+
+**Expected Outcome**  
+Data penyakit dalam sistem tetap terpelihara dan dapat digunakan untuk mendukung penyampaian informasi kepada pengguna.
+
+### Proses Pemeliharaan Data Gejala  
+**Purpose**  
