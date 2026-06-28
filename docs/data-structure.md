@@ -38,4 +38,17 @@ Data Gejala digunakan sebagai daftar gejala yang tersedia untuk dipilih pengguna
 **Data Relationships**  
 Data Gejala terhubung dengan Data Penyakit melalui Data Relasi Diagnosis untuk mendukung proses konsultasi. 
 
+## 5. Struktur Data Relasi Diagnosis  
+**Purpose**  
+Data Relasi Diagnosis digunakan sebagai basis pengetahuan yang menghubungkan Data Gejala dan Data Penyakit.  
 
+**Stored Information**  
+1. Relasi Penyakit digunakan untuk menunjukkan penyakit yang berhubungan dengan gejala tertentu dalam basis pengetahuan diagnosis.
+2. Relasi Gejala digunakan untuk menunjukkan gejala yang berhubungan dengan penyakit tertentu dalam basis pengetahuan diagnosis.
+3. Nilai Belief digunakan sebagai tingkat keyakinan pakar terhadap hubungan antara penyakit dan gejala.
+
+**System Usage**  
+1. Menyediakan basis pengetahuan yang digunakan sistem dalam proses konsultasi.
+
+**Data Relationships**  
+Data Relasi Diagnosis menghubungkan Data Penyakit dengan Data Gejala dalam sistem. 
