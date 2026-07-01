@@ -57,7 +57,7 @@ Data Relasi Diagnosis menghubungkan Data Penyakit dengan Data Gejala dalam siste
 Bagian ini menunjukkan representasi visual yang menunjukkan struktur data utama dalam sistem.
 
 <p align="center">
-  <img src="assets/structure-data-diagra.png" width="800"/>
+  <img src=".../assets/structure-data-diagra.png" width="800"/>
   <br>
   <em>Gambaran Struktur Data</em>
 </p>
