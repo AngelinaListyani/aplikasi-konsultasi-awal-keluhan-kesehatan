@@ -52,3 +52,6 @@ Data Relasi Diagnosis digunakan sebagai basis pengetahuan yang menghubungkan Dat
 
 **Data Relationships**  
 Data Relasi Diagnosis menghubungkan Data Penyakit dengan Data Gejala dalam sistem. 
+
+## 6. Gambaran Struktur Data  
+Bagian ini menunjukkan representasi visual yang menunjukkan struktur data utama dalam sistem.
