@@ -56,6 +56,12 @@ Data Relasi Diagnosis menghubungkan Data Penyakit dengan Data Gejala dalam siste
 ## 6. Gambaran Struktur Data  
 Bagian ini menunjukkan representasi visual yang menunjukkan struktur data utama dalam sistem.
 
-![Gambaran Struktur Data](/assets/structure-data-diagram.png)
+<p align="center">
+  <img src="/assets/structure-data-diagram.png" width="600">
+</p>
+
+<p align="center">
+  <em>Gambaran Struktur Data</em>
+</p>
 
 Diagram di atas menunjukkan struktur data utama dalam sistem. Dalam struktur tersebut, Data Relasi Diagnosis menjadi penghubung antara Data Penyakit dan Data Gejala sehingga membentuk basis pengetahuan yang digunakan oleh sistem. 
