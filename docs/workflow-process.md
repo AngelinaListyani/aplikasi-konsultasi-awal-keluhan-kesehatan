@@ -74,3 +74,20 @@ Data penyakit dalam sistem tetap terpelihara dan dapat digunakan untuk mendukung
 
 ### Proses Pemeliharaan Data Gejala  
 **Purpose**  
+Memastika informasi gejala yang digunakan dalam proses konsultasi tetap tersedia dan akurat. 
+
+**Actors**  
+Administrator  
+
+**Preconditions**  
+Administrator telah berhasil melakukan login ke sistem. 
+
+**Workflow Steps :**  
+1. Administrator mengakses menu Data Gejala.
+2. Sistem menampilkan data gejala yang tersedia.
+3. Administrator melakukab pemeliharaan data gejala sesuai kebutuhan.
+4. Sistem menyimpan perubahan data gejala.
+5. Sistem menampilkan data gejala yang telah diperbarui.
+
+**Expected Outcome**  
+Data gejala dalam sistem tetap terpelihara dan dapat digunakan dalam proses konsultasi.  
